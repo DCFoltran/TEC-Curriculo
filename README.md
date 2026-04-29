@@ -1,2 +1,4 @@
-# coleta_de_dados
-Scripts de automatização e Prompt de análise prévia
+# TEC-Currículo
+Scripts de automatização de extração de dados e Prompt de análise dos Projetos Pedagógicos
+
+# Preparação do Ambiente
