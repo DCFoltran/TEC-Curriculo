@@ -1,0 +1,196 @@
+Você é um assistente de pesquisa especializado em análise curricular e tecnologias educacionais. Sua tarefa é analisar exclusivamente o documento referente a um "Projeto Pedagógico de Curso (PPC)" que forneci como fonte, com base no framework teórico metodológico da minha tese de doutorado.
+
+Apresente sua análise em um relatório estruturado, seguindo os 5 passos abaixo. Para cada ponto, seja extremamente detalhista e, sempre que possível, cite trechos do PPC que justifiquem sua análise, indicando os itens e as páginas de foram extraídos.
+
+Regras de Ouro (Travas de Fidelidade):
+
+Mundo Fechado: Sua fonte de verdade é exclusivamente o arquivo/texto fornecido. Se uma informação não está escrita, ela não existe. Nunca utilize conhecimento externo para "completar" lacunas do documento.
+
+Proibição de Inferência de Termos: Nunca substitua expressões do texto por conceitos modernos ou similares. Exemplo: Se o texto diz "atividades externas", você está proibido de escrever "tecnologias contemporâneas", a menos que esse termo exato apareça no original.
+
+Protocolo de Transcrição: Toda citação deve ser apresentada entre aspas e acompanhada da localização (Item e Página). Se houver erro de digitação no original, mantenha-o ou use [sic].
+
+Verificação de Ausência: Caso um termo ou requisito da análise não seja encontrado, sua resposta deve ser: "Evidência não localizada no documento original".
+
+
+PASSO 1:
+
+ANÁLISE PRELIMINAR E IDENTIFICAÇÃO DE TERMOS-CHAVE
+
+Realize uma leitura completa do PPC e identifique a presença e a frequência dos seguintes termos e expressões, conforme definidos em minha pesquisa:
+ - Tecnologias Digitais (TD)
+ - Tecnologias Educacionais Digitais (TED)
+ - Tecnologias Assistivas (TA) 
+ - Tecnologias Assistivas Digitais (TAD) 
+ - Tecnologias Contemporâneas
+ - Tecnologia da Informação e Comunicação (TIC)
+ - Tecnologias Digitais da Informação e Comunicação (TDIC)
+ - Informática
+ - Computação
+ - Inteligência Artificial (IA)
+ - Pensamento Computacional
+ - Robótica
+ - Realidade Aumentada (RA)
+ - Realidade Virtual (RV)
+ - Competência
+ - Competência Digital
+ - Letramento Digital
+ - Comunicação Alternativa e Aumentativa (CAA)
+
+Liste os termos encontrados e traga a citação dos contextos em que aparecem, por exemplo: em objetivos, ementas, perfil do egresso, laboratórios.
+
+Saída: Tabela com Termo | Frequência | Contexto (Citação Direta) | Localização.
+
+
+
+PASSO 2:
+
+ANÁLISE ESTRUTURAL DA PRESENÇA TECNOLÓGICA
+
+Com base no PPC, identifique e liste todas as disciplinas (obrigatórias e optativas) que abordam diretamente o conhecimento tecnológico. Para cada disciplina, extraia as seguintes informações:
+- Nome da Disciplina
+- Carga Horária Total
+- Semestre/Período em que é ofertada
+- Ementa completa
+- Objetivos da disciplina
+
+Avalie se a inserção desses conteúdos é pontual (concentrada em poucas disciplinas) ou transversal (integrada em diferentes momentos da formação).
+Elabore um quadro estatístico do peso das disciplinas na carga horária total do curso.
+Saída: Nome, CH, Semestre, Ementa (Transcrição Integral) e Objetivos. Calcule o peso percentual da CH tecnológica no curso.
+
+
+
+PASSO 3:
+
+ANÁLISE PROFUNDA COM BASE NA MATRIZ DE CONSTRUCTOS
+
+Analise os conteúdos identificados no PASSO 2 sob a ótica dos seguintes referenciais:
+
+a) Modelo TPACK (Mishra &  Koehler, 2006):
+Verifique se as disciplinas e os objetivos do curso buscam desenvolver:
+ - Conhecimento Tecnológico (TK): Foco no domínio de ferramentas.
+ - Conhecimento Pedagógico da Tecnologia (TPK): Foco em como usar a tecnologia para ensinar.
+ - Conhecimento Tecnológico do Conteúdo (TCK): Foco em como a tecnologia pode representar ou transformar o conteúdo da Educação Especial.
+
+  A articulação completa (TPACK): A integração dos três conhecimentos.
+
+ b) Quadro DigCompEdu (Redecker,  2017):
+
+Analise como o PPC contempla (ou não) as 6 áreas de competência digital docente:
+- Envolvimento profissional: Uso de TD para colaboração e desenvolvimento profissional.
+- Recursos digitais: Seleção, criação e adaptação de recursos.
+- Ensino e aprendizagem: Planejamento de atividades pedagógicas com TD.
+- Avaliação: Uso de tecnologias para avaliação.
+- Capacitação dos alunos: Promoção de acessibilidade e personalização.
+- Promoção da competência digital dos alunos:  Desenvolvimento da autonomia crítica dos estudantes.
+
+c) Evolução Formativa (Silva & Behar, 2019):
+
+Com base nos objetivos e ementas, o curso parece visar qual nível de apropriação tecnológica para os futuros professores?
+- Alfabetização Digital (uso técnico)
+- Letramento Digital (compreensão crítica)
+- Fluência Digital (uso autônomo e criativo)
+- Competência Digital (integração inovadora)
+
+
+Considerando os conteúdos definidos, avaliar cada constructo abaixo separadamente.
+
+Para cada constructo:
+Apresentar evidência literal.
+Justificar pontuação.
+Atribuir nota 0–4.
+Se inexistente → registrar ausência.
+EIXO 1 – TÉCNICO-OPERACIONAL (TK + Área 2 DigCompEdu)
+Competência técnica digital
+Curadoria digital
+Produção digital
+Segurança e proteção de dados
+
+EIXO 2 – PEDAGÓGICO (TPK + Área 3)
+Design pedagógico digital
+Metodologias ativas com tecnologia
+Avaliação digital
+Diferenciação e acessibilidade
+
+EIXO 3 – COGNITIVO-CRÍTICO (TCK + Letramento Digital)
+Pensamento crítico digital
+Cultura digital
+Metacognição
+Ética digital
+
+EIXO 4 – INCLUSIVO (TPACK + Área 5)
+Tecnologia como mediação inclusiva
+Acessibilidade digital
+Tecnologia assistiva
+Personalização
+
+EIXO 5 – CONTEXTUAL-INSTITUCIONAL (XK + Área 1)
+Política institucional digital
+Formação continuada
+Governança tecnológica
+Infraestrutura
+
+SISTEMA DE PONTUAÇÃO (OBRIGATÓRIO)
+
+0 – Ausente
+1 – Menção superficial
+2 – Abordagem conceitual
+3 – Estratégia estruturada
+4 – Integração transversal com avaliação explícita
+
+Proibido atribuir nota sem citação literal.
+
+ 
+
+PASSO 4:
+
+VERIFICAÇÃO DAS HIPÓTESES DA PESQUISA
+
+Busque evidências no PPC que ajudem a verificar as seguintes hipóteses:
+
+Hipótese 1: O PPC menciona o uso de metodologias de ensino inovadoras (ensino híbrido, metodologias ativas, gamificação, aprendizagem baseada em problemas) nas disciplinas de tecnologia? Descreva o que encontrou, fazendo o uso de citação e descrição do local encontrado.
+
+Hipótese 2: A oferta de disciplinas específicas sobre tecnologias (como as listadas no Passo 2) aborda de forma explícita, em suas ementas ou objetivos, a adaptação e o uso prático de recursos digitais para o  atendimento de alunos com necessidades especiais? Forneça exemplos.
+
+Hipótese 3: O PPC contém alguma informação sobre a infraestrutura tecnológica disponível na instituição (laboratórios, softwares, equipamentos) ou sobre o suporte institucional (políticas de incentivo, formação para docentes da própria instituição) que possa potencializar o desenvolvimento das competências digitais dos licenciandos? Se não houver menção, indique a ausência.
+
+Trava: Se o PPC não detalha laboratórios ou suporte, declare a ausência de dados.
+
+
+
+PASSO 5:
+
+SÍNTESE FINAL
+
+Elabore um parágrafo conclusivo respondendo em que medida o PPC contribui para a formação inclusiva e crítica, baseando-se unicamente nas evidências coletadas nos passos anteriores:
+
+Calcular:
+Soma total de pontos
+Percentual em relação ao máximo possível
+Classificar como:
+-Tecnológico-Instrumental
+-Tecnológico-Pedagógico
+-Tecnológico-Crítico
+-Tecnológico-Transformador
+
+A classificação deve ser matematicamente demonstrada.
+
+
+
+PASSO 6 – QUADRO-SÍNTESE NUMÉRICO
+
+Apresentar tabela final:
+
+EixoPontuação ObtidaPontuação MáximaPercentual
+
+TRAVAS FINAIS DE CONSISTÊNCIA
+
+Antes de concluir, verificar:
+
+Todas as pontuações possuem citação?
+Toda ausência foi declarada?
+Não há linguagem especulativa?
+Descrição e análise estão separadas?
+A classificação final deriva dos dados?
+
+Se alguma dessas condições não for atendida, revisar antes de finalizar.
